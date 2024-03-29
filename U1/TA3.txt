@@ -1,0 +1,32 @@
+UT1_TA3:
+
+Ejercicio 1:
+
+Requisito 1: El software debe ser fácil de usar.
+No es smart ya que no se puede medir que tan facil de usar es una aplicacion.
+
+Requisito 2: El software debe tener una velocidad de carga inferior a 5 segundos.
+Es smart ya que es especifico medible alcanzable realizable y trazable.
+
+Requisito 3: El software debe ser compatible con todos los navegadores web.
+No es smart ya que no se puede trazar si tenemos considerados todos los navegadores posibles sin dejar de lado ninguno.
+
+Requisito 4: El software debe permitir a los usuarios exportar datos en formato CSV.
+Es smart la funcion es especifica se puede verificar, es alcanzable y realizable. 
+
+Requisito 5: El software debe ser capaz de manejar grandes volúmenes de datos.
+No es smart ya que grandes volumenes de datos no son especificos
+
+Requisito 6: El software debe ser seguro y proteger la información del usuario.
+No es smart ya que no se es alcanzable una proteccion 100% segura y tampoco es medible la unidad de seguridad.
+
+Requisito 7: El software debe ser compatible con los sistemas operativos Windows y Mac.
+Es smart ya que la compatibilidad es especifica de las aplicaciones si una funcionalidad no es compatible la apliacion no compila. Los sistemas operativos windows y mac son especificos medibles.
+
+Requisito 8: El software debe tener una tasa de error inferior al 1%.
+Es smart ya que la tasa de error de 1% es medible y especifica, se puede alcanzar y es trazable.
+
+Requisito 9: El software debe permitir la personalización de la interfaz de usuario.
+Requisito 10: El software debe ser capaz de procesar transacciones financieras de forma segura
+según las normas ISO 2700, 27001, 27002 y 27004.
+No es smart ya que la seguridad de una transaccion no es medible y el hecho de que cumpla con 4 normas podria partir este requerimiento en 4 mas especificos uno por cada norma.  
